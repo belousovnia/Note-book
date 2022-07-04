@@ -9,4 +9,4 @@
 
 Посмотреть можно по ссылке: https://belousovnia.github.io/Note-book/
 
-Написан при помощи React.
+Нет мобильной версии
